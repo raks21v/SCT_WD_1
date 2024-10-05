@@ -27,3 +27,16 @@ nav ul li a {
     padding: 10px;
     transition: color 0.3s, background-color 0.3s;
 }
+nav ul li a:hover {
+    background-color: #fff;
+    color: #333;
+    border-radius: 4px;
+}
+section {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    color: #fff;
+}
