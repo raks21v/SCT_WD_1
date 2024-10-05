@@ -40,3 +40,18 @@ section {
     font-size: 40px;
     color: #fff;
 }
+#home { 
+    background-color: #1ae2ba;
+}
+#services { 
+    background-color: #bde539; 
+}
+#about { 
+    background-color: #a3555d; 
+}
+#contact { 
+    background-color: #545493; 
+}
+.scrolled {
+    background-color: #222;
+}
