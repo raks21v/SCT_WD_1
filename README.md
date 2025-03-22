@@ -19,7 +19,6 @@ This project is a **responsive navigation menu** developed during my internship 
 
 - `index.html`: Contains the HTML markup for the navigation menu.
 - `style.css`: Houses the CSS styles governing the design and responsiveness.
-- `script.js`: Includes JavaScript code for interactive features.
 
 ## How to Use
 
